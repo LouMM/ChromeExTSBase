@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Direct to Tabs",
+    "short_name": "Directly open file to tabs",
+    "description": "Tired of losing your tabs everyday? Here is a file you can send that opens directly to tabs.",
+    "version": "0.0.1",
+    "author": "cto@reloum.com",
+    "permissions": [
+        "webNavigation"
+      ]
+}

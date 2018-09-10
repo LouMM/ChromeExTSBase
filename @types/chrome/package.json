@@ -1,0 +1,70 @@
+{
+  "_from": "@types/chrome@0.0.73",
+  "_id": "@types/chrome@0.0.73",
+  "_inBundle": false,
+  "_integrity": "sha512-w5aFubIZGmCeWyy7qFU4UFFOlTjqMtG0m8CU/v5RbMbcIk0aritvAeKVO7i5iorccIOOJfm3ZVU7enuIPDQ/jA==",
+  "_location": "/@types/chrome",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/chrome@0.0.73",
+    "name": "@types/chrome",
+    "escapedName": "@types%2fchrome",
+    "scope": "@types",
+    "rawSpec": "0.0.73",
+    "saveSpec": null,
+    "fetchSpec": "0.0.73"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/chrome/-/chrome-0.0.73.tgz",
+  "_shasum": "5bc75f41f17f5875b0b28907ecece66fc19bed00",
+  "_spec": "@types/chrome@0.0.73",
+  "_where": "D:\\Repos\\ChromeExtensions\\Sample1",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Matthew Kimber",
+      "url": "https://github.com/matthewkimber"
+    },
+    {
+      "name": "otiai10",
+      "url": "https://github.com/otiai10"
+    },
+    {
+      "name": "couven92",
+      "url": "https://github.com/couven92"
+    },
+    {
+      "name": "RReverser",
+      "url": "https://github.com/rreverser"
+    },
+    {
+      "name": "sreimer15",
+      "url": "https://github.com/sreimer15"
+    }
+  ],
+  "dependencies": {
+    "@types/filesystem": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for Chrome extension development",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/chrome",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "typesPublisherContentHash": "d27f8d588af5b322f160a2fe585a050da5cbe833af5abb063ada6733f81c69a4",
+  "version": "0.0.73"
+}
